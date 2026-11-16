@@ -3,7 +3,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/jatin-motwani-) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://jatinmotwani.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=#FF7139)](https://my-portfolio-five-tawny-26.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatinmotwani17@gmail.com)
 
 </div>
@@ -13,7 +13,7 @@
 🎓 I'm **Jatin Motwani**, a Computer Engineering student at **NMIMS University**, Mumbai  
 💻 Passionate about **Full Stack Development** and **AI/ML**  
 🌱 Currently learning advanced backend architectures and cloud technologies  
-👨‍💻 All of my projects are available at **[jatinmotwani.tech](https://jatinmotwani.tech)**  
+👨‍💻 All of my projects are available at **[https://my-portfolio-five-tawny-26.vercel.app/](https://my-portfolio-five-tawny-26.vercel.app/)**  
 📫 Reach me at **jatinmotwani17@gmail.com**
 
 ---
